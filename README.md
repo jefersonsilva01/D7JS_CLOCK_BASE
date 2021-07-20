@@ -1,4 +1,4 @@
-<h1 align="center">D7_CLOCK_BASE</h1>
+<h1 align="center">D7JS_CLOCK_BASE</h1>
 
 <p align="center">
     <img src="./assets/images/cover.png">
