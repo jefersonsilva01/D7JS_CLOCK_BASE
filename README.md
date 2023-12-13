@@ -8,4 +8,4 @@
 
 Project made with javascript vanilla to represent an analogyc and digital clock.
 
-Don't spread your time and see work [here](https://jeferson1.github.io/D7JS_CLOCK_BASE/)
+Don't spread your time and see work [here](https://jefersonsilva01.github.io/D7JS_CLOCK_BASE/)
